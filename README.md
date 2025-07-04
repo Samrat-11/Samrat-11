@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kolaparthi Samrat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/004/865/921/non_2x/programmer-people-concept-use-laptop-and-programming-code-program-icon-spreading-with-modern-flat-style-free-vector.jpg​">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif​">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samrat-11&label=Profile%20views&color=0e75b6&style=flat" alt="samrat-11" /> </p>
 
